@@ -13,7 +13,7 @@ export const <FTName> = forwardRef<HTMLDivElement, <FTName>Props>(
         return (
             <div
                 ref={ref}
-                className={cn(styles.<FTName | lovercase>)}
+                className={cn(styles.<FTName | lowercase>)}
                 data-testid={<FTName | uppercase>_TEST_ID}
             >
                 {children}
