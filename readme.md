@@ -1,0 +1,1 @@
+# Templates for vscode [Folder Templates](https://marketplace.visualstudio.com/items?itemName=Huuums.vscode-fast-folder-structure#template-format) plugin
