@@ -2,7 +2,7 @@ import { Meta, StoryObj } from "@storybook/react";
 
 import { <FTName>, <FTName>Props } from "./index";
 
-const meta: Meta<AvatarProps> = {
+const meta: Meta<<FTName>Props> = {
     component: <FTName>,
 };
 
