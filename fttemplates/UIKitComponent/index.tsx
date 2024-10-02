@@ -1,6 +1,6 @@
 import cn from "classnames";
 
-import { <FTName | uppercase>_TEST_ID } from "./constants";
+import { <FTName | constantcase>_TEST_ID } from "./constants";
 import type { <FTName>Props } from "./types";
 export type { <FTName>Props } from "./types";
 
