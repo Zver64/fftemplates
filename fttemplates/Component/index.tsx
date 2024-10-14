@@ -7,7 +7,7 @@ import styles from "./styles.module.scss";
 export const <FTName> = ({ children }: <FTName>Props) => {
         return (
             <div
-                className={cn(styles.<FTName | lowercase>)}
+                className={cn(styles.<FTName | camelcase>)}
             >
                 {children}
             </div>
